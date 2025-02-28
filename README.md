@@ -1,4 +1,4 @@
-# Rapport de Projet : Analyse des Données Immobilier 
+# Rapport de Projet : Analyse des Données 
 
 ## Contexte du Projet
 Ce projet a pour objectif de consolider les compétences en nettoyage de données à travers l'utilisation du langage SQL et Power BI. Il est basé sur un jeu de données immobilier provenant de ventes de propriétés à Nashville. Le processus de nettoyage permet d'améliorer la qualité des données, étape indispensable pour garantir des analyses fiables et précises. Les tâches incluent la normalisation des formats de date et d'adresse, la gestion des valeurs manquantes, l'élimination des doublons, ainsi que la suppression des colonnes inutiles.
